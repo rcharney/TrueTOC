@@ -12,4 +12,4 @@ TrueTOC is designed to be used with most HTML pages. It requires a minimum of 2 
 
 A default of 5 levels are included in the generated TOC. Up to 9 levels can be numbered.
 
-Addition options include determining which symbols represent expanded and collapsed levels. Clicking on a level marker in the TOC will toggle expanding and collapsing its content.
+Addition options include selecting which symbols represent expanded and collapsed levels. Toggling a symbol marker in the TOC will expand and collapse its content.
